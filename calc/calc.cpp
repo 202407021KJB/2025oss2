@@ -8,6 +8,8 @@
 #include "mul.h"
 #include "sub.h"
 
+#include <stdlib.h>
+#include <time.h>
 
 int main()
 {
