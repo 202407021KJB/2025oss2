@@ -2,7 +2,7 @@
 
 | 팀 장 | 김종범 | 202407021 | main, dev/a  | <br>
 | 부 원 | 임형호 | 202407030 | dev/b, dev/c |<br>
-| 저장소 | https://github.com/202407021KJB/2025oss | 
+| 저장소 | https://github.com/202407021KJB/2025oss2 | 
 
 <br>
 <h1>해결과정</h1>
@@ -53,7 +53,8 @@
 <img src = "/images/crash_2.png">
 
 <li><h3>수정이 안되는 오류 발생, main파일에서 재수정</h3></li>
-<img src = "/images/crash_3.png">
+<img src = "/images/main1.png">
+<img src = "/images/main2.png">
 
 </ol>
 <h1>git flow : 네트워크</h1>
