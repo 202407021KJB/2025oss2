@@ -3,7 +3,7 @@
 
 int add(int x, int y)
 {
-	/// 수정
+	/// add 병합 충돌로 인해 재수정
 	printf("x[ %d ]와 y[ %d ]의 값을 더합니다.\n");
 	return x + y;
 }
